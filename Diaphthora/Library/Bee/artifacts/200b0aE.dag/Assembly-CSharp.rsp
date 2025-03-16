@@ -388,6 +388,20 @@
 -analyzer:"/Users/mac/Documents/nhatminh/dotnet/Unity/Install Version/2022.3.21f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Users/mac/Documents/nhatminh/dotnet/Unity/Install Version/2022.3.21f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/CORE/Scripts/test/TestScript.cs"
+"Assets/Farming Game/Scripts/CameraController/CameraController.cs"
+"Assets/Farming Game/Scripts/Constants.cs"
+"Assets/Farming Game/Scripts/Enum.cs"
+"Assets/Farming Game/Scripts/Planting/Block/BlockInfo.cs"
+"Assets/Farming Game/Scripts/Planting/Block/GrowBlock.cs"
+"Assets/Farming Game/Scripts/Planting/Grid/BlockRow.cs"
+"Assets/Farming Game/Scripts/Planting/Grid/GridController.cs"
+"Assets/Farming Game/Scripts/Planting/Grid/GridInfo.cs"
+"Assets/Farming Game/Scripts/Planting/Grid/InfoRow.cs"
+"Assets/Farming Game/Scripts/Player/PlayerController.cs"
+"Assets/Farming Game/Scripts/Things/Canvas/UIController.cs"
+"Assets/Farming Game/Scripts/Things/DoortileCtrl.cs"
+"Assets/Farming Game/Scripts/Things/SceneSwitcher.cs"
+"Assets/Farming Game/Scripts/Things/TiledMapDecorationOpacity.cs"
 -langversion:9.0
 
 /deterministic
