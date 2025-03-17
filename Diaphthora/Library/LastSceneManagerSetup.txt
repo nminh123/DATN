@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Farming Game/Scenes/Main.unity
+- path: Assets/CORE/Scenes/SampleScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
